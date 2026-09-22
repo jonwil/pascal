@@ -1,0 +1,77 @@
+as.bit       bitmap image
+cdl.bit        "      "
+cdr.bit        "      "
+cul.bit        "      "
+cur.bit        "      "
+green.bit      "      "
+junction.bit   "      "
+notrain.bit    "      "
+rdl.bit        "      "
+sas.bit        "      "
+sbridge.bit    "      "
+scrash.bit     "      "
+scross.bit     "      "
+sdl.bit        "      "
+sdodge.bit     "      "
+sdr.bit        "      "
+sgreen.bit     "      "
+slane.bit      "      "
+slongul1.bit   "      "
+slongul2.bit   "      "
+slongul3.bit   "      "
+sloop.bit      "      "
+spart1.bit     "      "
+spart2.bit     "      "
+spart3.bit     "      "
+spin1.bit      "      "
+spin2.bit      "      "
+spin3.bit      "      "
+spin4.bit      "      "
+spot.bit       "      "
+sramp.bit      "      "
+srdl.bit       "      "
+sstart.bit     "      "
+station1.bit   "      "
+station2.bit   "      "
+station3.bit   "      "
+stunnel.bit    "      "
+stunnel1.bit   "      "
+stunnel2.bit   "      "
+stunnel3.bit   "      "
+sudl.bit       "      "
+sul.bit        "      "
+sup1.bit       "      "
+sup2.bit       "      "
+sup3.bit       "      "
+sur.bit        "      "
+surd.bit       "      "
+surl.bit       "      "
+sus.bit        "      "
+train.bit      "      "
+udl.bit        "      "
+urd.bit        "      "
+url.bit        "      "
+us.bit         "      "
+packing.lst  this file
+s1.map       map file
+s2.map        "   "
+s3.map        "   "
+tt1.map       "   "
+tt2.map       "   "
+tt3.map       "   "
+bed.pas      bitmap editor
+bgiref.pas   driver code
+bitmap.pas   bitmap display code
+map.pas      map editor
+mapview.pas  map viewer
+maptpu.pas   map display unit
+mouse.pas    mouse unit
+mousetes.pas mouse tester
+tool.pas     toolbar editor
+s2.tol       toolbar file
+stunts.tol     "      "
+tt.tol         "      "
+ 
+this source is mesy. i do not have time to clean it up or write documentation
+use this source as you will.
+i did not draw most of the bitmaps.

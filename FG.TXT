@@ -1,0 +1,15 @@
+in this package
+castle.zip tile based world example + animated tiles
+floor.zip 3d wall example (static)
+texture.zip texture mapping example (2d)
+45.zip isometric cube example
+fg.txt this file
+ 
+these programs are two examples of how to use the fastgraph/light
+graphics library
+you need fastgraph/light (or fastgraph) to recompile.
+fastgraph/light and other files relating to fastgraph can be found at
+ftp://x2ftp.oulu.fi/pub/msdos/programming/fg
+ 
+please note. the programs were written on a 486slc/33
+ 
